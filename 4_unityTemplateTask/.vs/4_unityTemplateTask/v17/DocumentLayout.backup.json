@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanm\\OneDrive - The University of Nottingham\\Code\\Unity\\onlineVR-toolbox-main\\4_unityTemplateTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFED0D91-FF5A-35C5-02DD-AEEEB3BCBB73}|Assembly-CSharp.csproj|c:\\users\\juanm\\onedrive - the university of nottingham\\code\\unity\\onlinevr-toolbox-main\\4_unitytemplatetask\\assets\\scripts\\pickupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED0D91-FF5A-35C5-02DD-AEEEB3BCBB73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFED0D91-FF5A-35C5-02DD-AEEEB3BCBB73}|Assembly-CSharp.csproj|c:\\users\\juanm\\onedrive - the university of nottingham\\code\\unity\\onlinevr-toolbox-main\\4_unitytemplatetask\\assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED0D91-FF5A-35C5-02DD-AEEEB3BCBB73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFED0D91-FF5A-35C5-02DD-AEEEB3BCBB73}|Assembly-CSharp.csproj|C:\\Users\\juanm\\OneDrive - The University of Nottingham\\Code\\Unity\\onlineVR-toolbox-main\\4_unityTemplateTask\\assets\\experimenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED0D91-FF5A-35C5-02DD-AEEEB3BCBB73}|Assembly-CSharp.csproj|solutionrelative:assets\\experimenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0526F2-1731-F8F4-D0C4-55D3184EACDA}|Abclab.Onlinevr.csproj|C:\\Users\\juanm\\OneDrive - The University of Nottingham\\Code\\Unity\\onlineVR-toolbox-main\\4_unityTemplateTask\\packages\\com.abclab.onlinevr\\runtime\\connectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0526F2-1731-F8F4-D0C4-55D3184EACDA}|Abclab.Onlinevr.csproj|solutionrelative:packages\\com.abclab.onlinevr\\runtime\\connectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerControl.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive - The University of Nottingham\\Code\\Unity\\onlineVR-toolbox-main\\4_unityTemplateTask\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive - The University of Nottingham\\Code\\Unity\\onlineVR-toolbox-main\\4_unityTemplateTask\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControl.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwD4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T01:10:51.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PickupController.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive - The University of Nottingham\\Code\\Unity\\onlineVR-toolbox-main\\4_unityTemplateTask\\Assets\\Scripts\\PickupController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickupController.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive - The University of Nottingham\\Code\\Unity\\onlineVR-toolbox-main\\4_unityTemplateTask\\Assets\\Scripts\\PickupController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickupController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:44:31.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive - The University of Nottingham\\Code\\Unity\\onlineVR-toolbox-main\\4_unityTemplateTask\\Packages\\com.abclab.onlinevr\\Runtime\\ConnectionHandler.cs",
+              "RelativeDocumentMoniker": "Packages\\com.abclab.onlinevr\\Runtime\\ConnectionHandler.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive - The University of Nottingham\\Code\\Unity\\onlineVR-toolbox-main\\4_unityTemplateTask\\Packages\\com.abclab.onlinevr\\Runtime\\ConnectionHandler.cs",
+              "RelativeToolTip": "Packages\\com.abclab.onlinevr\\Runtime\\ConnectionHandler.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:43:35.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExperimentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive - The University of Nottingham\\Code\\Unity\\onlineVR-toolbox-main\\4_unityTemplateTask\\Assets\\ExperimentHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\ExperimentHandler.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive - The University of Nottingham\\Code\\Unity\\onlineVR-toolbox-main\\4_unityTemplateTask\\Assets\\ExperimentHandler.cs",
+              "RelativeToolTip": "Assets\\ExperimentHandler.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:41:49.502Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
